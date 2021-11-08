@@ -3,10 +3,10 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #332c2c;  
+    background-color: #000000af;  
     
-    color: #303030;
-    font: Verdana, Arial, Sans-Serif;
+    color: #ffffff;
+    font-family: Verdana;
 }
 
 
@@ -77,11 +77,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: orangered;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: orangered;
 }
 
 

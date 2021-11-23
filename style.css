@@ -23,8 +23,9 @@ article {
 
 
 header {
-    color: skyblue;
+    color:orangered;
     text-align: center;
+    font-size:0.8em;
 }
 
 
@@ -42,7 +43,8 @@ img.zweefLinks {
 }
 
 .smalltext {
-    font-size: 0.7em;
+    font-size: 0.9em;
+    color:orangered;
 }
 
 a {
@@ -62,6 +64,7 @@ nav ul {
     padding: 0;
     background-color: #161313;
     overflow: hidden;
+    border-radius:5px;
 }
 
 nav ul li {

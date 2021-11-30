@@ -25,7 +25,7 @@ Stap 2: Bestandsstructuur opzetten
 Stap 3: Lay-out 
 - [ ] Je hebt de lay-out (welk onderdeel komt waar op het scherm) van je pagina’s gekozen. Het is handig om voor al je pagina’s dezelfde lay-out te gebruiken. 
 - [ ] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
-- [ ] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
+- [ ] VWO: Voor de slayout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de bais html en CSS gemaakt.
 - [ ] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven.
 
 Stap 4: Inhoud en plaatjes 

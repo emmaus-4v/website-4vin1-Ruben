@@ -7,9 +7,7 @@
 }
 
 html, body {
-    height: 100%;
-    padding: 0;
-    background-color: #000000af;  
+    background-color: #191919;  
     
     color: #ffffff;
     font-family: Verdana;
@@ -25,6 +23,10 @@ main {
 
 article {
     text-align: justify;
+}
+
+.team {
+    margin-bottom: 30px;
 }
 
 
@@ -45,6 +47,12 @@ footer {
 
 
 /* specifieke stijlen */
+
+.teamimage {
+    float: left;
+    margin-right: 15px;
+    border-radius: 5px;
+}
 
 img.zweefLinks {
     float: left;

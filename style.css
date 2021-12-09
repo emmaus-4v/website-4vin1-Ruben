@@ -28,8 +28,13 @@ article {
 .team {
     margin-bottom: 30px;
 }
+
 .videos {
     margin-bottom: 325px;
+}
+
+.circuit {
+    margin-bottom: 30px;
 }
 
 header {
@@ -60,6 +65,13 @@ footer {
 .thevideo{
     float: left;
     margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.circuitimage {
+    float: left;
+    margin-right: 15px;
+    border-radius: 5px;
     margin-bottom: 15px;
 }
 

@@ -13,6 +13,7 @@ html, body {
 }
 
 
+
 main {
     margin: 0 auto;
     width: 800px;
@@ -48,6 +49,10 @@ article {
     margin-bottom: 30px;
 }
 
+.coureurs {
+    margin-bottom: 30px;
+}
+
 header {
     color:orangered;
     text-align: center;
@@ -80,6 +85,13 @@ footer {
 }
 
 .circuitimage {
+    float: left;
+    margin-right: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.coureursimage {
     float: left;
     margin-right: 15px;
     border-radius: 5px;

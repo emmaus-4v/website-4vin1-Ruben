@@ -12,13 +12,6 @@ html, body {
     font-family: Verdana;
 }
 
-.timer {
-    background-color: #191919;
-    font-family: Verdana;
-    text-align: center;
-    font-size: 0.9em;
-}
-
 main {
     margin: 0 auto;
     width: 800px;

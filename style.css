@@ -2,7 +2,6 @@
 * {
     margin: 0px;
     padding: 0px;
-    /*border: 1px solid pink;*/
     box-sizing: border-box;
 }
 
@@ -35,6 +34,7 @@ article {
     margin-bottom: 30px;
 }
 
+}
 .videos {
     display: flex;
 }
@@ -44,10 +44,6 @@ article {
 }
 
 .circuit {
-    margin-bottom: 30px;
-}
-
-.coureurs {
     margin-bottom: 30px;
 }
 

@@ -102,6 +102,12 @@ img.zweefLinks {
     border-radius:5px;
 }
 
+img.zweefRechts {
+    float:right;
+    margin-left: 15px; 
+    border-radius: 5px;
+}
+
 .smalltext {
     font-size: 0.9em;
     color:orangered;
